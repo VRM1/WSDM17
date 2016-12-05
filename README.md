@@ -1,1 +1,2 @@
-# WSDM17 Data and Codes
+#Probabilistic Social Sequential Model for Tour Recommendation - WSDM17 
+Check-in Data and Codes
