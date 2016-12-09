@@ -18,4 +18,4 @@ So, the contents of the check-ins data are:
 
 5. Location ID: Id of the location (POI) in foursquare
 
-6. Message: Text of the tweet.
+6. Message: Text of the tweet. (The text had url which takes us to the check-in of the user from which user identity can be obtained. For this reason, we have removed those urls from text.)
