@@ -1,7 +1,6 @@
 #Probabilistic Social Sequential Model for Tour Recommendation - WSDM17 
-Check-in Data and Codes
 
-Dataset Description
+## Dataset Description
 
 The data is the check-in data by Foursquare users across 4 major cities: New York, LA, Chicago and Moscow.
 It has been collected using the Twitter API with foursqaure tags on them. 
