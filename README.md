@@ -5,6 +5,7 @@
 The data contains 965k check-ins by 55k Foursquare users across 128k POIs in 4 major cities: New York, LA, Chicago and Moscow. 
 It has been collected using the Twitter API with foursqaure tags on them. 
 
+----------------------------------------------------------------------------------------------------------------------
 So, the contents of the check-ins data are:
 
 1. Location: Latitude and Longitude of check-in
