@@ -6,15 +6,14 @@ The sub dictionary has 2 keys.
 1. cats: has vlaue as a list of category ids
 2. tags: has value as a list of tag ids
 
-Python code to retrieve the data:
+The following python code will create a dictonary dict_venue_cat with the structure described above.
 ```python
 import json
 dict_venue_cat = json.loads(open('**CityName**_venue_cat.json').read())
 ```
 
-The above code will create a dictonary dict_venue_cat with the structure described above.
--------------------------------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------------
 ##**CityName**_venues.csv
 
 1. Venue ID
